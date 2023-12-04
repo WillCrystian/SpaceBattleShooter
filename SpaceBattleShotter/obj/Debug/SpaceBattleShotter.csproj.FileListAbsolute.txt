@@ -1,0 +1,15 @@
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\bin\Debug\SpaceBattleShotter.exe.config
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\bin\Debug\SpaceBattleShotter.exe
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\bin\Debug\SpaceBattleShotter.pdb
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter.csproj.AssemblyReference.cache
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\MainWindow.g.cs
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\App.g.cs
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter_MarkupCompile.cache
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter_MarkupCompile.lref
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\MainWindow.baml
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter.g.resources
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter.Properties.Resources.resources
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter.csproj.GenerateResource.cache
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter.csproj.CoreCompileInputs.cache
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter.exe
+C:\Users\william.aniceto\source\repos\SpaceBattleShotter\SpaceBattleShotter\obj\Debug\SpaceBattleShotter.pdb
