@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Space Battle Shooter" Height="615" Width="540">
     <Canvas Name="MyCanvas" Focusable="true" Background="black" KeyDown="OnkeyDown" KeyUp="OnkeyUp">
-        <Rectangle Name="player" Fill="Yellow" Height="50" Width="60" Canvas.Left="240" Canvas.Top="525" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Name="player" Fill="Yellow" Height="50" Width="60" Canvas.Left="234" Canvas.Top="505" HorizontalAlignment="Left" VerticalAlignment="Center"/>
         <Label Name="scoreText" Content="Score: 0" FontSize="18" FontWeight="Bold" Foreground="White"/>
         <Label Name="demageText" Content="Score: 0" FontSize="18" FontWeight="Bold" Foreground="White" HorizontalAlignment="Left" Canvas.Left="453" VerticalAlignment="Center"/>
     </Canvas>

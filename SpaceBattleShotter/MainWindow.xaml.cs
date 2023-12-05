@@ -47,12 +47,23 @@ namespace SpaceBattleShotter
 
             MyCanvas.Focus();
 
+            // Cria um objeto do tipo ImageBrush e o nomeia como bg.
             ImageBrush bg = new ImageBrush();
+            // Define a imagem de fundo do objeto bg como “purple.png” que está localizada na pasta “images” do aplicativo.
             bg.ImageSource = new BitmapImage(new Uri("pack://application:,,,/images/purple.png"));
+            // Define o modo de preenchimento da imagem de fundo como “Tile”.
             bg.TileMode = TileMode.Tile;
+            //Define a área da imagem de fundo que será exibida no MyCanvas como um retângulo com as coordenadas (0, 0) e largura e altura de 0,15.
             bg.Viewport = new Rect(0, 0, 0.15, 0.15);
+            //Define as unidades de medida para a área da imagem de fundo como relativas à caixa delimitadora do objeto MyCanvas.
             bg.ViewboxUnits = BrushMappingMode.RelativeToBoundingBox;
+            //Define o objeto bg como o pano de fundo do objeto MyCanvas.
             MyCanvas.Background = bg;
+
+
+            ImageBrush playerImage = new ImageBrush();
+            playerImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/images/player.png"));
+            player.Fill = playerImage;
         }
 
         private void GameLoop(object sender, EventArgs e)
